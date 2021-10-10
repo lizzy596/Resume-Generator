@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Resume-Generator/static/css/main.ac560905.chunk.css",
+    "main.js": "/Resume-Generator/static/js/main.e084c684.chunk.js",
+    "main.js.map": "/Resume-Generator/static/js/main.e084c684.chunk.js.map",
+    "runtime-main.js": "/Resume-Generator/static/js/runtime-main.5cb496aa.js",
+    "runtime-main.js.map": "/Resume-Generator/static/js/runtime-main.5cb496aa.js.map",
+    "static/js/2.8e3d4c2d.chunk.js": "/Resume-Generator/static/js/2.8e3d4c2d.chunk.js",
+    "static/js/2.8e3d4c2d.chunk.js.map": "/Resume-Generator/static/js/2.8e3d4c2d.chunk.js.map",
+    "index.html": "/Resume-Generator/index.html",
+    "static/css/main.ac560905.chunk.css.map": "/Resume-Generator/static/css/main.ac560905.chunk.css.map",
+    "static/js/2.8e3d4c2d.chunk.js.LICENSE.txt": "/Resume-Generator/static/js/2.8e3d4c2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cb496aa.js",
+    "static/js/2.8e3d4c2d.chunk.js",
+    "static/css/main.ac560905.chunk.css",
+    "static/js/main.e084c684.chunk.js"
+  ]
+}
