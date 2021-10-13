@@ -10,6 +10,8 @@ import ShowCV from './Components/Functions/ShowCV';
 //import CVPrint from './Components/CVGeneration/CVPrint';
 import Example from './Components/CVGeneration/CVPrint';
 import ShowSample from './Components/Functions/ShowSample';
+import {Helmet} from "react-helmet";
+
 
 
 
@@ -109,6 +111,10 @@ const handleHideForm = () => {
 
   return (
     <div className="container">
+       <Helmet>
+        <title>Resume Builder</title>
+        <meta name="description" content="resume builder" />
+      </Helmet>
       {showForm && <h1>Resume Generator</h1>}
       {showForm && <h2>Generate a Professional Resume in Minutes</h2>}
       {showForm && <ShowSample />}
